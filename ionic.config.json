@@ -1,0 +1,8 @@
+{
+  "name": "cardapio-movel",
+  "app_id": "c1fa6e53",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
+}
